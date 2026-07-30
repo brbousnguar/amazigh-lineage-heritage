@@ -133,6 +133,38 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Research Article: Islamic Period Ibiza Ancient DNA -->
+  <url>
+    <loc>https://northafricanorigins.com/research/mediterranean-islamic-dna-ibiza-2026.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Research Article: Canary Islands Amazigh History -->
+  <url>
+    <loc>https://northafricanorigins.com/research/canary-islands-amazigh-history-2025.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Research Article: Demographic History of North African Genomes -->
+  <url>
+    <loc>https://northafricanorigins.com/research/demographic-modelling-amazigh-arab-2024.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Research Article: Amazigh Genomic Heterogeneity -->
+  <url>
+    <loc>https://northafricanorigins.com/research/amazigh-genomic-heterogeneity-2024.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- Research Article: Neolithic Iberia-Morocco Migration -->
   <url>
     <loc>https://northafricanorigins.com/research/neolithic-iberia-morocco-2023.html</loc>
